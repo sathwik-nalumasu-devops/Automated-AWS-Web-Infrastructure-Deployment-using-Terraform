@@ -1,5 +1,4 @@
 # Automated AWS Web Infrastructure Deployment using Terraform
-
 Terraform-based AWS infrastructure project that provisions a highly available web application using EC2 instances behind an Application Load Balancer, demonstrating Infrastructure as Code, automated provisioning, and cloud networking.
 
 ## Overview
